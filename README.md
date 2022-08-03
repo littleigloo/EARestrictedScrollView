@@ -13,7 +13,7 @@
 
 ## Description
 
-🔸 Highly customizable drop-in solution for introduction views.
+🔸 UIScrollView sublass with ability to restrict scrolling area.
 <br>🔸 Refactored `Swift Package Manager` version of the [EARestrictedScrollView](https://github.com/ealeksandrov/EARestrictedScrollView).
 
 ## Installation
